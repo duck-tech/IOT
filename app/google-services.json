@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "135126457361",
+    "firebase_url": "https://iotfirebaseproject-c21d1.firebaseio.com",
+    "project_id": "iotfirebaseproject-c21d1",
+    "storage_bucket": "iotfirebaseproject-c21d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135126457361:android:7ec5c425b7bd955d7f65b0",
+        "android_client_info": {
+          "package_name": "com.example.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135126457361-kd205po2ttuptib7vlma7m5r3fl2e0ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjZdAsCNCZVnCDhyST-xFVgbfVs1-z67E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135126457361-kd205po2ttuptib7vlma7m5r3fl2e0ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135126457361:android:1fcd15ad8585452a7f65b0",
+        "android_client_info": {
+          "package_name": "tien.learn.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135126457361-p0ki0hg05a1gij0tsgj8or27butc53eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tien.learn.iot",
+            "certificate_hash": "d34ebccebc1987bea649b5aaedcb2d9f6f6af6f1"
+          }
+        },
+        {
+          "client_id": "135126457361-kd205po2ttuptib7vlma7m5r3fl2e0ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjZdAsCNCZVnCDhyST-xFVgbfVs1-z67E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135126457361-kd205po2ttuptib7vlma7m5r3fl2e0ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
