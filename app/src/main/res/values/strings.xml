@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Home</string>
+    <string name="onAll">Bật tất cả</string>
+    <string name="text_lighting">Lighting</string>
+    <string name="text_fan">Fan</string>
+    <string name="offAll">Tắt tất cả</string>
 </resources>
